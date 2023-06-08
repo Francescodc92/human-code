@@ -12,3 +12,30 @@ STEPS:
 10. Riporre documento in lista
 11. Controllare documenti mancanti
 12. Ritorno al controllo liste
+
+
+*****************************
+modifiche dopo la correzione
+
+
+Scansionare un documento su più fogli fronte-retro
+La pratica perduta
+Finalmente sono riuscito a ritrovare quella pratica che sembrava essere svanita nel nulla! Che poi, possibile che nel 2021 ci siano ancora così tanti fogli di carta in giro per l’ufficio?! Ora ci penso io: una bella scansione e l’archiviamo in formato digitale, così la prossima volta so già dove andare a cercarla! L’unica pecca è che lo scanner non ha il fronte-retro automatico e mi tocca farlo a mano. Va beh, poco male, almeno sono pochi fogli!
+
+1. accendere pc e stampante 
+	1a. verificare che la stampante non sia accesa 
+		- se è accesa passare al passo 3
+		- altrimenti passi al passo 2
+2. accendere la stampante
+3. prendere il fascicolo con i documenti da scansionare (list)
+4. aprire il portello della stampante 
+5. inserire il foglio da scansionare 
+6. accertarsi che il file sia arrivato in maniera corretta al pc 
+7. verificare che ci sia una parte nel retro del foglio
+	-se ha una restro scansionare il retro
+	-altrimenti passare al file successivo vedi 5a
+8. andare al pc 
+9. creare una cartella dedicata al documento
+10. inserire i file scansionati 
+11. salvare il documento 
+fine
